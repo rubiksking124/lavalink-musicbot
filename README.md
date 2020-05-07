@@ -1,6 +1,7 @@
 ># Lavalink-MusicBot
 >Music bot that used Lavalink for the audio
 >## Installing
+[![Run on Repl.it](https://repl.it/badge/github/rubiksking124/lavalink-musicbot)](https://repl.it/github/rubiksking124/lavalink-musicbot)
 >- Clone this repository.
 >- Install dependencies:
 >```bash
